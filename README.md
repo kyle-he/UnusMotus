@@ -1,4 +1,4 @@
-### Unus Motus
+# Unus Motus
 
 This game was created by Oliver Ni (11) and Kyle He (11) to compete in the FBLA Computer Simulations and Programming 2021 competition.
 
