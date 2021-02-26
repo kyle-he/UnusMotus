@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Crosswipe
+  m_Controller: {fileID: 9100000, guid: a1e97509025d54ffbacf0b1fac45cd88, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 65181b38e66a14d75b81590df8cbcff6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d59b260f651e74e2b8a473c44c44f8f6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f6389bed830a249abb9854b2df513e60, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8594af37f82f94d428b79d95a1f8dd5d, type: 2}
