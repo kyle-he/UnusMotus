@@ -30,13 +30,11 @@ There are two different game modes: hardcore mode has 3 lives, a move counter an
 
 In hardcore mode, there is an online leaderboard to submit your score. We built an (overengineered) scalable backend and API using [Elixir](https://elixir-lang.org/). Score is calculated based on the number of moves you made and the level you reached.
 
-[ insert picture here ]
-
 ### Credits
 
 All art, effects, and UI elements are original, created from scratch by us.
 
-The game is built with the (Unity Game Engine)[https://unity.com/] and programmed using C#.
+The game is built with the [Unity Game Engine](https://unity.com/) and programmed using C#.
 
 Music is created by [HeatlyBros](https://www.youtube.com/channel/UCsLlqLIE-TqDq3lh5kU2PeA). The music is royalty-free and we are permitted to use it in our game.
 
