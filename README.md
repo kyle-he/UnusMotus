@@ -1,37 +1,4 @@
----
-geometry: margin=1in
-header-includes:
-    - \newcommand{\hideFromPandoc}[1]{#1}
-        \hideFromPandoc{
-            \let\Begin\begin
-            \let\End\end
-        }
-    - \usepackage{changepage}
-fontfamily: arev
----
-
-\Begin{adjustwidth}{1in}{1in}
-\Begin{center}
-
-![](Unus%20Motus.png){height=1.5in}
-
-&nbsp;
-
-It is year 3021. You've just woken up.
-
-After the Robot Wars of 2921, scientists put you and a few robotic companions into hibernation to preserve the human race. 
-
-In the 100 years you've been asleep, a lot has happened. The facility you've been in seems to have decayed.
-
-Thankfully, your robots are still partly functional.  
-**Let's get out of here.**
-
-\End{center}
-\End{adjustwidth}
-
-&nbsp;
-
-&nbsp;
+# Unus Motus
 
 This game was created by Oliver Ni (11) and Kyle He (11) to compete in the FBLA Computer Game & Simulation Programming 2021 event.
 
