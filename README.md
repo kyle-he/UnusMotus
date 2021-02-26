@@ -18,7 +18,7 @@ This game was created by Oliver Ni (11) and Kyle He (11) to compete in the FBLA 
 
 WASD or arrow keys to move, space to toggle sticky characters, R to restart a level, and ESC to open settings. 
 
-### More
+### More About
 
 Certain characters can only move up and down, certain characters can only move left and right, and certain characters can only stick with other characters. (hence the name unus motus, latin for one motion)
 
