@@ -41,7 +41,9 @@ The game itself is very self-explanatory and has in-game dialogue to guide you a
 
 This should be fairly simple; simply double click the file corresponding to your operating system. On Windows, click the `Unus Motus Windows.exe` file, and on macOS, click the `Unus Motus MacOS.app` file.
 
-You may be prompted to bypass a security setting. **This is not an issue with the game itself, but rather a feature of Windows we cannot bypass.** If you run into issues starting, click "More Info" and then click "Run Anyway" when prompted.
+**Do NOT rename the executable file. If you do so, you will not be able to open it.**
+
+You may be prompted to bypass a security setting. (This is not an issue with the game itself, but rather a feature of Windows we cannot bypass.) If you run into issues starting, click "More Info" and then click "Run Anyway" when prompted.
 
 ## Instructions (as shown in game)
 
