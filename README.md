@@ -4,6 +4,9 @@ This game was created by Oliver Ni (11) and Kyle He (11) to compete in the FBLA 
 
 The game itself is very self-explanatory and has in-game dialogue to guide you along the way, but we'll include instructions here in case.
 
+## Play the game online
+You can play the [game online here](https://keeelay.itch.io/unus-motus).
+
 ## Launching the game
 
 This should be fairly simple; simply double click the file corresponding to your operating system. On Windows, click the `Unus Motus Windows.exe` file, and on macOS, click the `Unus Motus MacOS.app` file.
